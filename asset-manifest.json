@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://disco195.github.io/csb-k7fo1/static/css/main.4e365974.chunk.css",
+    "main.js": "https://disco195.github.io/csb-k7fo1/static/js/main.90c8e9c7.chunk.js",
+    "main.js.map": "https://disco195.github.io/csb-k7fo1/static/js/main.90c8e9c7.chunk.js.map",
+    "runtime-main.js": "https://disco195.github.io/csb-k7fo1/static/js/runtime-main.3ea44b6e.js",
+    "runtime-main.js.map": "https://disco195.github.io/csb-k7fo1/static/js/runtime-main.3ea44b6e.js.map",
+    "static/js/2.cca168b8.chunk.js": "https://disco195.github.io/csb-k7fo1/static/js/2.cca168b8.chunk.js",
+    "static/js/2.cca168b8.chunk.js.map": "https://disco195.github.io/csb-k7fo1/static/js/2.cca168b8.chunk.js.map",
+    "index.html": "https://disco195.github.io/csb-k7fo1/index.html",
+    "precache-manifest.f49d9d5b1345e5321a20107a28d1622e.js": "https://disco195.github.io/csb-k7fo1/precache-manifest.f49d9d5b1345e5321a20107a28d1622e.js",
+    "service-worker.js": "https://disco195.github.io/csb-k7fo1/service-worker.js",
+    "static/css/main.4e365974.chunk.css.map": "https://disco195.github.io/csb-k7fo1/static/css/main.4e365974.chunk.css.map",
+    "static/js/2.cca168b8.chunk.js.LICENSE.txt": "https://disco195.github.io/csb-k7fo1/static/js/2.cca168b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ea44b6e.js",
+    "static/js/2.cca168b8.chunk.js",
+    "static/css/main.4e365974.chunk.css",
+    "static/js/main.90c8e9c7.chunk.js"
+  ]
+}
